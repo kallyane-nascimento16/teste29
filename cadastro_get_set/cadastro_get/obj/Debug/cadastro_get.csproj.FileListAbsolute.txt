@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\bin\Debug\cadastro_get.exe.config
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\bin\Debug\cadastro_get.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\bin\Debug\cadastro_get.pdb
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\obj\Debug\cadastro_get.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\obj\Debug\cadastro_get.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\obj\Debug\cadastro_get.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\obj\Debug\cadastro_get.exe
+C:\Users\SENAI\Documents\kallyane C#\kallyane C# novos projetos\cadastro_get_set\cadastro_get\obj\Debug\cadastro_get.pdb
